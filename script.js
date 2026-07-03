@@ -130,5 +130,4 @@ document.getElementById("score").innerHTML="";
 document.querySelector(".container").style.border="none";
 document.getElementById("resetBtn").style.display="none";
 document.querySelector("button").disabled = false;
-
 }
